@@ -1,0 +1,22 @@
+.homepage_posts{
+    width: 72%;
+}
+.hp_post{
+    width: 100%;
+    text-align: center;
+}
+.homePostButton{
+    padding: 12px 40px;
+    margin: 20px 0 10px;
+    background: transparent;
+    border: 2px solid rgb(46, 46, 46);
+    border-radius: 50px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+.homePostButton:hover{
+    color: white;
+    background-color: rgb(46, 46, 46);
+}

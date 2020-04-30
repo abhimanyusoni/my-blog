@@ -1,0 +1,35 @@
+.cat_title{
+    text-align: center;
+}
+.cat_title span{
+    color: red;
+}
+.cat_title h5{
+    font-family: 'Montserrat';
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgb(177, 177, 177);
+    margin-bottom: 10px;
+}
+.cat_dtl li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 12px;
+}
+.cat_dtl li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.cat_dtl li:hover{
+    transform: scale(1.1);
+}
+.cat_dtl li:nth-child(odd) a{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+  }
+  
+.cat_dtl li:nth-child(even) a{
+    font-size: 22px;
+    color: rgb(255, 38, 38);
+  }

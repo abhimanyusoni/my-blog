@@ -1,0 +1,36 @@
+.sidebar{
+    width: 26%;
+    color: black;
+    margin-left: auto;
+}
+.sidebar h1{
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.sidebar .abtusimg{
+    width: 100%;
+    margin: 15px 0 5px;
+}
+.sidebar p{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+}
+.sidebar_social_icons {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.sidebar_social_icons img{
+    width: 30px;
+    margin-top: 3px;
+    height: 30px;
+    opacity: 0.6;
+}
+.sidebar_social_icons img:hover{
+    transform: scale(1.1);
+    opacity: 1;
+}

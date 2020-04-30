@@ -1,0 +1,34 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.verticalLine{
+    border-left: 10px solid transparent;
+    height: 100%;
+}
+.footerAbtUs{
+    padding: 0 30px;
+    align-items: center;
+}
+.footerAbtUs p{
+    margin-top: 10px;
+}
+.copyright p{
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: rgb(129, 129, 129);
+    font-weight: bold;
+}
+.copyright span{
+    color: black;
+}
+.ftrabtdtl{
+    display: flex;
+}
+.ftrabtdtl img{
+    width: 100px;
+    margin-right: 25px;
+}

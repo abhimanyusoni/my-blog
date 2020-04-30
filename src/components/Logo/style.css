@@ -1,0 +1,14 @@
+.logo a{
+    text-decoration: none;
+    font-family: impact;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+.logo{
+    padding: 50px 0;
+    text-align: center;
+}
